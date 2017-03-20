@@ -7,11 +7,11 @@ Retrieved Feb. 10, 2016 by T. Connolly
 
 Variables:
 
-Response - shallow (upper) distributional limit of kelp Macrocystis pyrifera [m]
-OD - wave orbital displacement [m]
-BD - wave breaking depth [m]
-LTD - minimum daily tidal height [m]
-W - wind velocity [m/s], positive onshore
+* Response - shallow (upper) distributional limit of kelp Macrocystis pyrifera [m]
+* OD - wave orbital displacement [m]
+* BD - wave breaking depth [m]
+* LTD - minimum daily tidal height [m]
+* W - wind velocity [m/s], positive onshore
 
 The details of observational methods can be found in an earlier paper:
 
